@@ -5,12 +5,13 @@
 
 ## 目录
 
-- [博客](#博客类)
-- [社区](#社区类)
-- [工具](#工具类)
-- [开源](#开源类)
-- [资源](#资源类)
-- [其他](#其他类)
+- [博客类](#博客类)
+- [社区类](#社区类)
+- [工具类](#工具类)
+- [开源类](#开源类)
+- [资源类](#资源类)
+- [第三方平台类](#第三方平台类)
+- [其他类](#其他类)
 
 
 ## 博客类
@@ -36,13 +37,20 @@
 ## 开源类
 [React](http://facebook.github.io/react/)　[ThinkPHP](http://www.thinkphp.cn/)　[Yii](http://www.yiiframework.com/)　[Workerman](http://www.workerman.net/)　[Swoole](http://www.swoole.com/)　[SpringBoot](http://projects.spring.io/spring-boot/)　[Node.js](http://nodejs.cn/)　[Font Awesome](http://fontawesome.io/)　[layer](http://layer.layui.com/)　[Webpack](http://webpack.github.io/)　[DUBBO](http://dubbo.io/)　  
 
-[GitGogs](http://gogs.io/)　[AntDesign](http://ant.design)　[Markdown编辑器](https://pandao.github.io/editor.md/)　[docker](https://www.docker.com/)　[深度开源](http://www.open-open.com/)
+[GitGogs](http://gogs.io/)　[AntDesign](http://ant.design)　[Markdown编辑器](https://pandao.github.io/editor.md/)　[docker](https://www.docker.com/)　[深度开源](http://www.open-open.com/)　[Echarts](http://echarts.baidu.com/)　[Highcharts](http://www.highcharts.com/)　[Ueditor](http://ueditor.baidu.com)　[Hammerjs](http://hammerjs.github.io/)　[TodoMVC](http://todomvc.com)　  
+
+[AmazeUi](http://amazeui.org/)
 
 ## 资源类
 [技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)　  
 
-[免费的编程中文书籍索引](http://github.com/justjavac/free-programming-books-zh_CN)　[NPM](http://www.npmjs.com/)
+[免费的编程中文书籍索引](http://github.com/justjavac/free-programming-books-zh_CN)　[NPM](http://www.npmjs.com/)　[cdnjs](http://cdnjs.com/)　[Bootcdn](http://www.bootcdn.cn/)　[程序员简历模板](http://github.com/geekcompany/ResumeSample)
+
+## 第三方平台类
+[UCloud](http://www.ucloud.cn/)　[聚合数据](http://www.juhe.cn/)　[APiX](http://www.apix.cn/)　[容联云通讯](http://www.yuntongxun.com/)　[畅言](http://changyan.kuaizhan.com/)　[多说](http://duoshuo.com/)　[点触](http://www.touclick.com/)　[极验验证](http://www.geetest.com/)　[七牛云](http://www.qiniu.com)　[百度开发者](http://developer.baidu.com/)　[阿里开发者](http://dev.aliyun.com)  
+  
+[阿里开放平台](http://open.1688.com/)　[腾讯开放平台](http://open.qq.com)　[新浪开放平台](http://open.weibo.com/)　[微信公众平台](http://mp.weixin.qq.com/)　[微信开放平台](http://open.weixin.qq.com/)　[图灵机器人](http://www.tuling123.com/)
 
 ## 其他类
-[百度Fex](http://fex.baidu.com/)　[科技优家](http://www.toutiao.com/c/user/5841160544/#mid=5841160544)　[PHPERZ](http://www.phperz.com/)　[阿里开发者平台](http://dev.aliyun.com)
+[百度Fex](http://fex.baidu.com/)　[科技优家](http://www.toutiao.com/c/user/5841160544/#mid=5841160544)　[PHPERZ](http://www.phperz.com/)　
 
