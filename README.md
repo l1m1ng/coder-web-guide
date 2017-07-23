@@ -18,9 +18,9 @@
 [阮一峰](http://www.ruanyifeng.com/blog/)　[iMySQL](http://imysql.cn/)　[Laruence](http://www.laruence.com/)　[张宴](http://zyan.cc/) 
 　[汤姆大叔](http://www.cnblogs.com/TomXu/)　[云风](http://blog.codingnow.com/)　[左潇龙](http://www.zuoxiaolong.com/)　[Aaron](http://www.cnblogs.com/aaronjs/)　[岭南六少](http://blog.chedushi.com/)　[小胡子哥](http://www.barretlee.com/)　[月光](http://www.williamlong.info/)　[OOPHP](http://www.oophp.cn/)　[晶晶](http://blog.jjonline.cn/)　 
  
- [司徒正美](http://www.cnblogs.com/rubylouvre/)　[CodeSec](http://www.codesec.net/)　[金步国](http://www.jinbuguo.com/)　[deerchao](http://deerchao.net/)　[jackpk](http://blog.csdn.net/jackpk/article/list/1)　[pdw2009](http://blog.csdn.net/pdw2009?viewmode=contents)　[陶邦仁](https://my.oschina.net/xianggao/blog)　[冀博](http://blog.csdn.net/tigerjibo)　[wang_yb](http://www.cnblogs.com/wang_yb/)　[散尽浮华](http://www.cnblogs.com/kevingrace/)　[杨俊明](http://www.cnblogs.com/yjmyzz/)　[tigerb](http://tigerb.cn/)　  
+ [司徒正美](http://www.cnblogs.com/rubylouvre/)　[CodeSec](http://www.codesec.net/)　[金步国](http://www.jinbuguo.com/)　[deerchao](http://deerchao.net/)　[Jackpk](http://blog.csdn.net/jackpk/article/list/1)　[Pdw2009](http://blog.csdn.net/pdw2009?viewmode=contents)　[陶邦仁](https://my.oschina.net/xianggao/blog)　[冀博](http://blog.csdn.net/tigerjibo)　[wang_yb](http://www.cnblogs.com/wang_yb/)　[散尽浮华](http://www.cnblogs.com/kevingrace/)　[杨俊明](http://www.cnblogs.com/yjmyzz/)　[tigerb](http://tigerb.cn/)　  
  
- [长城的草](http://www.cnblogs.com/ccdc/)　[terry](http://blog.csdn.net/terry_water)　[damys](http://blog.csdn.net/damys)　[拔萝卜的码农](http://blog.csdn.net/yafei450225664)　[一线码农](http://www.cnblogs.com/huangxincheng/)　[喵了个咪](http://www.hdj.me/)　[巴途Adolph](http://blog.csdn.net/liuxinmingcode)　[云守护](http://blog.csdn.net/earbao)　[李占卫](http://www.cnblogs.com/tommyli/)　[blade2001](http://blog.csdn.net/blade2001)　[lv-neo](http://www.gitbook.com/@lv-neo)
+ [长城的草](http://www.cnblogs.com/ccdc/)　[terry](http://blog.csdn.net/terry_water)　[Damys](http://blog.csdn.net/damys)　[拔萝卜的码农](http://blog.csdn.net/yafei450225664)　[一线码农](http://www.cnblogs.com/huangxincheng/)　[喵了个咪](http://www.hdj.me/)　[巴途](http://blog.csdn.net/liuxinmingcode)　[云守护](http://blog.csdn.net/earbao)　[李占卫](http://www.cnblogs.com/tommyli/)　[Blade2001](http://blog.csdn.net/blade2001)　[Lv-neo](http://www.gitbook.com/@lv-neo)
 
 
 
@@ -29,7 +29,7 @@
   
 [推酷](http://www.tuicool.com/)　[Get社区](http://get.ftqq.com/)　[德问](http://www.dewen.net.cn/)　[前端Div](http://div.io/)　[开源中国](https://www.oschina.net/)　[Ubuntu 中文](http://wiki.ubuntu.org.cn)　[StackOverflow](https://stackoverflow.com/)　[伯乐在线](http://blog.jobbole.com/)　[InfoQ](http://www.infoq.com/cn/)　[React中文](http://react-china.org/)　  
 
-[segmentfault](http://segmentfault.com/)　[PHP社区](http://www.php1.cn/)　[Linux公社](http://www.linuxidc.com/)　[freebuf](http://www.freebuf.com/)　[运维吧](http://www.yunwei8.com/)　[CentOS中文站](http://www.centoscn.com/)　[开发者头条](http://toutiao.io/)　[掘金](http://juejin.im/)
+[Segmentfault](http://segmentfault.com/)　[PHP社区](http://www.php1.cn/)　[Linux公社](http://www.linuxidc.com/)　[freebuf](http://www.freebuf.com/)　[运维吧](http://www.yunwei8.com/)　[CentOS中文站](http://www.centoscn.com/)　[开发者头条](http://toutiao.io/)　[掘金](http://juejin.im/)
 
 ## 工具类
 [在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)
