@@ -1,11 +1,6 @@
-# Slow Log
-这是一个基于 ``GitHub Page``,``Issues`` 和 ``React`` 搭建的单页面静态博客，点击[「这里」](http://slowlog.github.io)查看博客。
-
-
-
-
-
-# Website Index
+程序员网址导航
+============================
+## 目录
 
 - [Blog](#blog)
 - [BBS](#bbs)
