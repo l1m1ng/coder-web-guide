@@ -29,7 +29,7 @@
   
 [推酷](http://www.tuicool.com/)　[Get社区](http://get.ftqq.com/)　[德问](http://www.dewen.net.cn/)　[前端Div](http://div.io/)　[开源中国](https://www.oschina.net/)　[Ubuntu 中文](http://wiki.ubuntu.org.cn)　[StackOverflow](https://stackoverflow.com/)　[伯乐在线](http://blog.jobbole.com/)　[InfoQ](http://www.infoq.com/cn/)　[React中文](http://react-china.org/)　  
 
-[Segmentfault](http://segmentfault.com/)　[PHP社区](http://www.php1.cn/)　[Linux公社](http://www.linuxidc.com/)　[Freebuf](http://www.freebuf.com/)　[运维吧](http://www.yunwei8.com/)　[CentOS中文站](http://www.centoscn.com/)　[开发者头条](http://toutiao.io/)　[掘金](http://juejin.im/)
+[Segmentfault](http://segmentfault.com/)　[PHP社区](http://www.php1.cn/)　[Linux公社](http://www.linuxidc.com/)　[Freebuf](http://www.freebuf.com/)　[运维吧](http://www.yunwei8.com/)　[CentOS中文站](http://www.centoscn.com/)　[开发者头条](http://toutiao.io/)　[掘金](http://juejin.im/)　[深度开源](http://www.open-open.com/)　
 
 ## 工具类
 [在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)
@@ -37,7 +37,7 @@
 ## 开源类
 [React](http://facebook.github.io/react/)　[ThinkPHP](http://www.thinkphp.cn/)　[Yii](http://www.yiiframework.com/)　[Workerman](http://www.workerman.net/)　[Swoole](http://www.swoole.com/)　[SpringBoot](http://projects.spring.io/spring-boot/)　[Node.js](http://nodejs.cn/)　[Font Awesome](http://fontawesome.io/)　[Layer](http://layer.layui.com/)　[Webpack](http://webpack.github.io/)　[Dubbo](http://dubbo.io/)　  
 
-[GitGogs](http://gogs.io/)　[AntDesign](http://ant.design)　[Markdown编辑器](https://pandao.github.io/editor.md/)　[Docker](https://www.docker.com/)　[深度开源](http://www.open-open.com/)　[Echarts](http://echarts.baidu.com/)　[Highcharts](http://www.highcharts.com/)　[Ueditor](http://ueditor.baidu.com)　[Hammerjs](http://hammerjs.github.io/)　[Todomvc](http://todomvc.com)　  
+[GitGogs](http://gogs.io/)　[AntDesign](http://ant.design)　[Markdown](https://pandao.github.io/editor.md/)　[Docker](https://www.docker.com/)　[Echarts](http://echarts.baidu.com/)　[Highcharts](http://www.highcharts.com/)　[Ueditor](http://ueditor.baidu.com)　[Hammerjs](http://hammerjs.github.io/)　[Todomvc](http://todomvc.com)　  
 
 [AmazeUi](http://amazeui.org/)　[Jenkins](http://jenkins.io/)　[Confluence](http://www.atlassian.com/software/confluence)　[Jira](http://www.atlassian.com/software/jira)　[SonarQube](http://www.sonarqube.org/)　[Zabbix](http://www.zabbix.com/)　[Walle](http://www.walle-web.io/)　[Kibana](http://github.com/elastic/kibana)
 
