@@ -30,7 +30,8 @@
 [Segmentfault](http://segmentfault.com/)　[PHP社区](http://www.php1.cn/)　[Linux公社](http://www.linuxidc.com/)　[Freebuf](http://www.freebuf.com/)　[运维吧](http://www.yunwei8.com/)　[CentOS中文站](http://www.centoscn.com/)　[开发者头条](http://toutiao.io/)　[掘金](http://juejin.im/)　[深度开源](http://www.open-open.com/)　
 
 ## 工具类
-[在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)　[IcoMoon](https://icomoon.io/)　[浏览器同步测试工具](http://www.browsersync.cn/)
+[在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)　
+[IcoMoon](https://icomoon.io/)　[浏览器同步测试工具](http://www.browsersync.cn/)
 
 ## 开源类
 [React](http://facebook.github.io/react/)　[ThinkPHP](http://www.thinkphp.cn/)　[Yii](http://www.yiiframework.com/)　[Workerman](http://www.workerman.net/)　[Swoole](http://www.swoole.com/)　[SpringBoot](http://projects.spring.io/spring-boot/)　[Node.js](http://nodejs.cn/)　[Font Awesome](http://fontawesome.io/)　[Layer](http://layer.layui.com/)　[Webpack](http://webpack.github.io/)　[Dubbo](http://dubbo.io/)　  
@@ -40,7 +41,7 @@
 [Jenkins](http://jenkins.io/)　[SonarQube](http://www.sonarqube.org/)　[Zabbix](http://www.zabbix.com/)　[Walle](http://www.walle-web.io/)　[Kibana](http://github.com/elastic/kibana)
 
 ## 资源类
-[技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)　  [设计达人](http://www.shejidaren.com/)　  [设计师网址导航](http://hao.shejidaren.com/)
+[技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)　[设计达人](http://www.shejidaren.com/)　[设计师网址导航](http://hao.shejidaren.com/)
 
 [免费的编程中文书籍索引](http://github.com/justjavac/free-programming-books-zh_CN)　[NPM](http://www.npmjs.com/)　[Cdnjs](http://cdnjs.com/)　[Bootcdn](http://www.bootcdn.cn/)　[程序员简历模板](http://github.com/geekcompany/ResumeSample)
 
