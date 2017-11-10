@@ -20,9 +20,7 @@
  
  [司徒正美](http://www.cnblogs.com/rubylouvre/)　[CodeSec](http://www.codesec.net/)　[金步国](http://www.jinbuguo.com/)　[Deerchao](http://deerchao.net/)　[Jackpk](http://blog.csdn.net/jackpk/article/list/1)　[Pdw2009](http://blog.csdn.net/pdw2009?viewmode=contents)　[陶邦仁](https://my.oschina.net/xianggao/blog)　[冀博](http://blog.csdn.net/tigerjibo)　[Wang_yb](http://www.cnblogs.com/wang_yb/)　[散尽浮华](http://www.cnblogs.com/kevingrace/)　[杨俊明](http://www.cnblogs.com/yjmyzz/)　[Tigerb](http://tigerb.cn/)　  
  
- [长城的草](http://www.cnblogs.com/ccdc/)　[Terry](http://blog.csdn.net/terry_water)　[Damys](http://blog.csdn.net/damys)　[拔萝卜的码农](http://blog.csdn.net/yafei450225664)　[一线码农](http://www.cnblogs.com/huangxincheng/)　[喵了个咪](http://www.hdj.me/)　[巴途](http://blog.csdn.net/liuxinmingcode)　[云守护](http://blog.csdn.net/earbao)　[李占卫](http://www.cnblogs.com/tommyli/)　[Blade2001](http://blog.csdn.net/blade2001)　[Lv-neo](http://www.gitbook.com/@lv-neo)
-
-
+ [长城的草](http://www.cnblogs.com/ccdc/)　[Terry](http://blog.csdn.net/terry_water)　[Damys](http://blog.csdn.net/damys)　[拔萝卜的码农](http://blog.csdn.net/yafei450225664)　[一线码农](http://www.cnblogs.com/huangxincheng/)　[喵了个咪](http://www.hdj.me/)　[巴途](http://blog.csdn.net/liuxinmingcode)　[云守护](http://blog.csdn.net/earbao)　[李占卫](http://www.cnblogs.com/tommyli/)　[Blade2001](http://blog.csdn.net/blade2001)　[Lv-neo](http://www.gitbook.com/@lv-neo)　[张鑫旭](http://www.zhangxinxu.com/)
 
 ## 社区类
 [运维部落](http://www.178linux.com/)　[全栈开发者](http://www.admin10000.com/)　[编程学习](http://www.phpxs.com/)　[小众软件](http://www.appinn.com/)　[前端网](http://www.qdfuns.com/)　[IBM社区](http://www.ibm.com/developerworks/cn/)　[V2EX社区](http://www.v2ex.com/)　[Linux中国](http://linux.cn)　[MySQL社区](http://www.mysqlpub.com/)　[图灵社区](http://www.ituring.com.cn/)  
@@ -32,7 +30,7 @@
 [Segmentfault](http://segmentfault.com/)　[PHP社区](http://www.php1.cn/)　[Linux公社](http://www.linuxidc.com/)　[Freebuf](http://www.freebuf.com/)　[运维吧](http://www.yunwei8.com/)　[CentOS中文站](http://www.centoscn.com/)　[开发者头条](http://toutiao.io/)　[掘金](http://juejin.im/)　[深度开源](http://www.open-open.com/)　
 
 ## 工具类
-[在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)　[IcoMoon](https://icomoon.io/)
+[在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)　[IcoMoon](https://icomoon.io/)　[省时的浏览器同步测试工具](http://www.browsersync.cn/)
 
 ## 开源类
 [React](http://facebook.github.io/react/)　[ThinkPHP](http://www.thinkphp.cn/)　[Yii](http://www.yiiframework.com/)　[Workerman](http://www.workerman.net/)　[Swoole](http://www.swoole.com/)　[SpringBoot](http://projects.spring.io/spring-boot/)　[Node.js](http://nodejs.cn/)　[Font Awesome](http://fontawesome.io/)　[Layer](http://layer.layui.com/)　[Webpack](http://webpack.github.io/)　[Dubbo](http://dubbo.io/)　  
@@ -42,7 +40,7 @@
 [Jenkins](http://jenkins.io/)　[Confluence](http://www.atlassian.com/software/confluence)　[Jira](http://www.atlassian.com/software/jira)　[SonarQube](http://www.sonarqube.org/)　[Zabbix](http://www.zabbix.com/)　[Walle](http://www.walle-web.io/)　[Kibana](http://github.com/elastic/kibana)
 
 ## 资源类
-[技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)　  
+[技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)　  [设计达人](http://www.shejidaren.com/)　  [设计师网址导航](http://hao.shejidaren.com/)
 
 [免费的编程中文书籍索引](http://github.com/justjavac/free-programming-books-zh_CN)　[NPM](http://www.npmjs.com/)　[Cdnjs](http://cdnjs.com/)　[Bootcdn](http://www.bootcdn.cn/)　[程序员简历模板](http://github.com/geekcompany/ResumeSample)
 
