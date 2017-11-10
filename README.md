@@ -31,6 +31,7 @@
 
 ## 工具类
 [在线工具](http://tool.oschina.net/)　[在线手册](http://shouce.jb51.net/)　[菜鸟教程](http://www.runoob.com/)　[PHP源码网](http://www.osphp.com.cn)　[颜色选择](http://www.colorpk.com/)　[PHP中文手册](http://www.t086.com/code/php/)　[Linux命令查询](http://man.linuxde.net/)　[阿里图标库](http://www.iconfont.cn/)　[Iconfinder](https://www.iconfinder.com/)　
+
 [IcoMoon](https://icomoon.io/)　[浏览器同步测试工具](http://www.browsersync.cn/)
 
 ## 开源类
