@@ -48,7 +48,7 @@
 
 [编程中文书籍索引](http://github.com/justjavac/free-programming-books-zh_CN)　[NPM](http://www.npmjs.com/)　[Cdnjs](http://cdnjs.com/)　[Bootcdn](http://www.bootcdn.cn/)　[程序员简历模板](http://github.com/geekcompany/ResumeSample)　[设计达人](http://www.shejidaren.com/)　[设计师网址导航](http://hao.shejidaren.com/)　[清华大学开源镜像](https://mirrors.tuna.tsinghua.edu.cn/)
 
-[上海大学开源镜像](https://mirrors.shuosc.org/)
+[上海大学开源镜像](https://mirrors.shuosc.org/)　[英语进阶指南](https://github.com/byoungd/english-level-up-tips-for-Chinese)
 
 ## 第三方平台类
 [UCloud](http://www.ucloud.cn/)　[聚合数据](http://www.juhe.cn/)　[APiX](http://www.apix.cn/)　[容联云通讯](http://www.yuntongxun.com/)　[畅言](http://changyan.kuaizhan.com/)　[多说](http://duoshuo.com/)　[点触](http://www.touclick.com/)　[极验验证](http://www.geetest.com/)　[七牛云](http://www.qiniu.com)　[百度开发者](http://developer.baidu.com/)　[阿里开发者](http://dev.aliyun.com)  
