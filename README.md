@@ -1,4 +1,4 @@
-程序员网址导航
+Coder Web Guide
 ============================
 欢迎大家将珍藏已久的网址共享出来，您可以：
 * 使用 [Issues](https://github.com/slowlog/programmer-url-navigation/issues) 以及 Pull Request
