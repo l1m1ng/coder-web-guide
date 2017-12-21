@@ -44,7 +44,7 @@
 [Jenkins](http://jenkins.io/)　[SonarQube](http://www.sonarqube.org/)　[Zabbix](http://www.zabbix.com/)　[Walle](http://www.walle-web.io/)　[Kibana](http://github.com/elastic/kibana)　[Vue.js](https://cn.vuejs.org/)　[iView](https://www.iviewui.com/)　[Element](https://github.com/ElemeFE/element)
 
 ## 资源类
-[技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)
+[技术文档](http://www.t086.com/code/)　[看云笔记](http://www.kancloud.cn)　[手册网](http://www.shouce.ren/)　[酷站](http://www.iiiimg.com/)　[懒人图库](http://www.lanrentuku.com/)　[模板之家](http://www.cssmoban.com/)　[花瓣网](http://huaban.com/)　[搜狐镜像](http://mirrors.sohu.com/)　[网易镜像](http://mirrors.163.com/)　[阿里镜像](http://mirrors.aliyun.com/)　[代码片段](http://www.phpxs.com/code/)　［清华大学开源镜像］(https://mirrors.tuna.tsinghua.edu.cn/)　[上海大学开源镜像](https://mirrors.shuosc.org/)
 
 [编程中文书籍索引](http://github.com/justjavac/free-programming-books-zh_CN)　[NPM](http://www.npmjs.com/)　[Cdnjs](http://cdnjs.com/)　[Bootcdn](http://www.bootcdn.cn/)　[程序员简历模板](http://github.com/geekcompany/ResumeSample)　[设计达人](http://www.shejidaren.com/)　[设计师网址导航](http://hao.shejidaren.com/)
 
