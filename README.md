@@ -1,7 +1,7 @@
 Coder Web Guide
 ============================
 欢迎大家将珍藏已久的网址共享出来，您可以：
-* 使用 [Issues](https://github.com/slowlog/programmer-url-navigation/issues) 以及 Pull Request
+* 使用 [Issues](https://github.com/slowlog/coder-web-guide/issues) 以及 [Pull Request](https://github.com/slowlog/coder-web-guide/pulls)
 
 ## 目录
 
